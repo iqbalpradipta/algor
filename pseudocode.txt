@@ -1,0 +1,20 @@
+Deklarasi:
+    var nama, syarat, documment, registrasi, durasi, jenis, rental = string
+Deskripsi:
+    Read (nama)
+    registrasi <- nama, syarat
+    syarat <- documment
+    if (syarat < 0) then
+        Print "Failed, re-input"
+    else (syarat > 0) then
+        Print "Register succses"
+    Write (registrasi)
+    Read (Jenis)
+    Read (Durasi)
+    rental <- jenis, durasi
+    Write (rental)
+
+
+
+
+    
